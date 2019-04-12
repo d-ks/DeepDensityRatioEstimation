@@ -1,5 +1,7 @@
 # DeepLogReg
+
 ![estimation_animation_LogReg](./LogReg.gif "Estimating density ratio by DeepLogReg") 
+
 *Estimating animation (true: dotted line, estimated:red line)*
 
 Implementation by DeepLogReg, proposed in following paper.
