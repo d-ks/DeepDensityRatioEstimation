@@ -1,2 +1,2 @@
-# DeepDensityRatioEstimation
-Density Ratio Estimation by Neural Network
+# Deep Density Ratio Estimation
+Density Ratio Estimation by Deep Neural Network
