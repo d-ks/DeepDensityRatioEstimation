@@ -10,4 +10,3 @@ Implementations of Density Ratio Estimation by Deep Neural Network.
 ----|----|----|---- 
 | DeepLogReg | Uchibe    18 | Bickel    09 | done   |
 | DeepLSIF   | Nam+      15 | Kanamori+ 09 | ----   |
-| DeepRuLSIF |    ★      | Yamada+   11 | ----   |
